@@ -97,7 +97,7 @@ body {
     display: inline-flex;
     font-size: 29px;
     font-weight: 700;
-    gap: 11px;
+    gap: -10px;
     letter-spacing: -1.25px;
     min-width: 174px;
 }
